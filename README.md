@@ -4,6 +4,8 @@ Implementation for Sign In with Apple
 
 Test Site : https://www.dancehallreggae.com.au
 
+Also Test App 
+
 [![Download in App Store][3]][2]
 
 [2]: https://itunes.apple.com/au/app/dancehall-reggae-australia/id405833609?mt=8
